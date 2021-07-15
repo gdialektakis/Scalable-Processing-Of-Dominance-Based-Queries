@@ -1,0 +1,11 @@
+------------ Top-10 Points are: ------------ 
+Point {0.156804,0.336241,0.368351,0.360713} with dominance score: 6621
+Point {0.017003,0.362959,0.449316,0.427978} with dominance score: 6528
+Point {0.175513,0.355746,0.385085,0.295796} with dominance score: 6308
+Point {0.225925,0.335232,0.358004,0.293633} with dominance score: 6209
+Point {0.185752,0.28918,0.393845,0.391924} with dominance score: 6123
+Point {0.07494,0.367701,0.345306,0.457242} with dominance score: 6034
+Point {0.218509,0.358179,0.365765,0.250127} with dominance score: 5974
+Point {0.139918,0.361524,0.41329,0.407186} with dominance score: 5927
+Point {0.179463,0.219662,0.380071,0.422535} with dominance score: 5889
+Point {0.11771,0.347802,0.408943,0.4396} with dominance score: 5846

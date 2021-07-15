@@ -1,0 +1,11 @@
+------------ Top-10 Points of Skyline are: ------------ 
+Point {0.040447,0.325965,0.294664,0.270439} with dominance score: 9091322
+Point {0.003792,0.359833,0.265827,0.310298} with dominance score: 9055552
+Point {0.016727,0.337576,0.345906,0.264116} with dominance score: 8968265
+Point {0.068804,0.253538,0.278569,0.311058} with dominance score: 8958492
+Point {0.018774,0.323939,0.319172,0.34509} with dominance score: 8952471
+Point {0.00109,0.363645,0.26581,0.337311} with dominance score: 8934263
+Point {0.079883,0.25309,0.269094,0.297859} with dominance score: 8930810
+Point {0.051445,0.334631,0.2056,0.300634} with dominance score: 8922335
+Point {0.046767,0.305338,0.344707,0.264579} with dominance score: 8836895
+Point {0.011268,0.345224,0.343759,0.336848} with dominance score: 8817278
